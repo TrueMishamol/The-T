@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 740b177730f8e3f4f9d1a70a94f48ad4
+timeCreated: 1495298952
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Player: {instanceID: 0}
+  - Camera: {instanceID: 0}
+  - Spawn: {instanceID: 0}
+  - GUIS: {instanceID: 0}
+  - PlayerPrefab: {instanceID: 0}
+  - TNone: {instanceID: 0}
+  - TLightCrystal: {instanceID: 0}
+  - TTestOne: {instanceID: 0}
+  - TTMatter: {instanceID: 0}
+  - TWatermelon: {instanceID: 0}
+  - TMarkerSetter: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

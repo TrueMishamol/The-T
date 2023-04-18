@@ -1,0 +1,15 @@
+V. 1.0.3.
++Added new terrain.
+=Edit Inventory:
+	+Add new 5 lines;
+	+Add watermelon;
+	+Add t matter;
+	=Resize items' icons.
+=Upgrate items' textures:
+	=Light crystal;
+	=Watermelon.
+=New control sistem:
+	+Add new walking keyboard;
+	+Add new view rotation sistem;
+	-Remove Unity Mouse Look script.
+-Remove Multiplay.
