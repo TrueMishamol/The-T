@@ -79,3 +79,5 @@ Ignore/
 desktop.ini
 
 */.svn/*
+
+*.lnk
