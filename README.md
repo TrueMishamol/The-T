@@ -1,4 +1,11 @@
 # The T
-The T - Unity 3D game for testing
+My first ever Unity 3D game. I tested a lot of stuff there, like
 
-Very old game project! First version was created with Unity `5.6.7f1` 0_0
+- Inventory
+- Terrain, trees, 3D enviroment
+- Character controller & physics
+- etc.
+
+Very old game project! Created somewhere in 2016. The first version, that I found was Unity `5.6.7f1` but it is not the first version of this project 0_0 
+
+I will refactor this code someday & upload an update
